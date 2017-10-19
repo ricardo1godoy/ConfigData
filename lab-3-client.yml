@@ -4,7 +4,7 @@ spring:
   lucky-word:Irish
 ---
 spring:
-  profiles:west  
+  profiles:default  
   lucky-word:Rabbit's Foot
 ---
 spring:
